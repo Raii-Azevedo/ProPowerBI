@@ -1,4 +1,4 @@
-![PowerBI]()
+![PowerBI](https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png)
  
 ## Long Life
  
@@ -10,8 +10,7 @@ Acessar o link:
 
 
 ## Tópicos
-- Instalação
-- Introdução ao BI
+- [Introdução ao BI](https://github.com/Raii-Azevedo/ProPowerBI/tree/master/Introdu%C3%A7%C3%A3o%20ao%20BI)
 - Modelagem (Power Query)
 - Modelo Fato e Dimensão
 - Ingestão de dados da Web
