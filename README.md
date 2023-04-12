@@ -1,6 +1,5 @@
 ![PowerBI](https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png)
  
-## Long Life
  
 - Evolução do curso de Professional PowerBI
 
